@@ -3,4 +3,4 @@ will also create a KEY file with decryption key inside and a safety file prevent
 
 the decryption script will ask for a key unless there is a key file in the current directory and will also delete the safety file
 
-any questions/comments welcome :3
+any questions/comments welcome in issues tab or whatever :3
